@@ -1,0 +1,80 @@
+Initialize engine version: 5.5.3f1 (4d2f809fd6f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.6175
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.542675 ms
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Looking for SoundBanks in C:\Users\nadjam.NAD.QC.CA\Documents\Jam Projects\Pow_Chicken_Pow_Pow\Builds\Final_Data\StreamingAssets\_AUDIO\bluejamwestern\SoundBanks\Windows\
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Could not locate the SoundBanks. Did you make sure to copy them to the StreamingAssets folder?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Bank BlueJam_SoundBank failed to load (AK_FileNotFound)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not post event ID "-1145324244". Did you make sure to load the appropriate SoundBank?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2890 -> priority: 1 
+  Thread -> id: 1c48 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.620085 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2126.
+Total: 0.884956 ms (FindLiveObjects: 0.131146 ms CreateObjectMapping: 0.050463 ms MarkObjects: 0.695933 ms  DeleteObjects: 0.007127 ms)
+
+Could not post event ID "-433303855". Did you make sure to load the appropriate SoundBank?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not post event ID "-1120487318". Did you make sure to load the appropriate SoundBank?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not post event ID "1447315382". Did you make sure to load the appropriate SoundBank?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+le poulet rentre ds qqchose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wall collided!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
