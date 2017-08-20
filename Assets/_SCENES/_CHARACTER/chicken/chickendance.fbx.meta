@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: 5daa8f5d5ebeca440a87f3f46e2929f1
+timeCreated: 1503196405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _UNKNOWN_REF_NODE_fosterParent1
+    100002: //RootNode
+    100004: chickenhead
+    100006: errthing
+    100008: everything
+    100010: group
+    100012: group 1
+    100014: group1
+    100016: group10
+    100018: group11
+    100020: group12
+    100022: group13
+    100024: group14
+    100026: group15
+    100028: group16
+    100030: group17
+    100032: group18
+    100034: group2
+    100036: group20
+    100038: group21
+    100040: group3
+    100042: group4
+    100044: group5
+    100046: group7
+    100048: group8
+    100050: group9
+    100052: head
+    100054: motionTrail1Handle
+    100056: nurbsCircle1
+    100058: pasted___UNKNOWN_REF_NODE_fosterParent1
+    100060: pasted___UNKNOWN_REF_NODE_fosterParent1 1
+    100062: pasted__group11
+    100064: pasted__group12
+    100066: pasted__group15
+    100068: pasted__group16
+    100070: pasted__group16 1
+    100072: pasted__group16 2
+    100074: pasted__group3
+    100076: pasted__group3 1
+    100078: pasted__group3 2
+    100080: pasted__group3 3
+    100082: pasted__group3 4
+    100084: pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+    100086: pasted__pasted__group12
+    100088: pasted__pasted__group15
+    100090: pasted__pasted__group15 1
+    100092: pasted__pasted__group15 2
+    100094: pasted__pasted__group3
+    100096: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+    100098: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1 1
+    100100: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1 2
+    100102: pasted__pasted__pasted__group12
+    100104: pasted__pasted__pasted__group12 1
+    100106: pasted__pasted__pasted__group12 2
+    100108: pasted__pasted__pasted__pasted__pPlane3
+    100110: pasted__pasted__pasted__pasted__pPlane4
+    100112: pasted__pasted__pasted__pPlane3
+    100114: pasted__pasted__pasted__pSphere2
+    100116: pasted__pasted__polySurface7
+    100118: pasted__pasted__pPlane3
+    100120: pasted__pasted__pPlane4
+    100122: pasted__pasted__pPyramid1
+    100124: pasted__pasted__pSphere1
+    100126: pasted__pasted__pSphere2
+    100128: pasted__pasted__pSphere2 1
+    100130: pasted__pasted__pSphere2 2
+    100132: pasted__pasted__pSphere2 3
+    100134: pasted__pasted__pSphere2 4
+    100136: pasted__pasted__pSphere2 5
+    100138: pasted__pasted__pSphere3
+    100140: pasted__pasted__transform12
+    100142: pasted__pasted__transform13
+    100144: pasted__pasted__transform14
+    100146: pasted__pasted__transform15
+    100148: pasted__pasted__transform16
+    100150: pasted__pasted__transform17
+    100152: pasted__polySurface5
+    100154: pasted__polySurface5 1
+    100156: pasted__polySurface7
+    100158: pasted__pPlane3
+    100160: pasted__pPlane4
+    100162: pasted__pPlane4 1
+    100164: pasted__pPlane4 2
+    100166: pasted__pPlane4 3
+    100168: pasted__pPlane4 4
+    100170: pasted__pPlane4 5
+    100172: pasted__pPyramid1
+    100174: pasted__pPyramid1 1
+    100176: pasted__pPyramid1 2
+    100178: pasted__pPyramid1 3
+    100180: pasted__pPyramid1 4
+    100182: pasted__pPyramid1 5
+    100184: pasted__pSphere1
+    100186: pasted__pSphere1 1
+    100188: pasted__pSphere1 2
+    100190: pasted__pSphere1 3
+    100192: pasted__pSphere1 4
+    100194: pasted__pSphere1 5
+    100196: pasted__pSphere1 6
+    100198: pasted__pSphere2
+    100200: pasted__pSphere2 1
+    100202: pasted__pSphere2 2
+    100204: pasted__pSphere2 3
+    100206: pasted__pSphere2 4
+    100208: pasted__pSphere2 5
+    100210: pasted__pSphere2 6
+    100212: pasted__pSphere3
+    100214: pasted__pSphere3 1
+    100216: pasted__pSphere3 2
+    100218: pasted__pSphere3 3
+    100220: pasted__pSphere3 4
+    100222: pasted__pSphere3 5
+    100224: pasted__transform12
+    100226: pasted__transform12 1
+    100228: pasted__transform12 2
+    100230: pasted__transform12 3
+    100232: pasted__transform12 4
+    100234: pasted__transform12 5
+    100236: pasted__transform13
+    100238: pasted__transform13 1
+    100240: pasted__transform13 2
+    100242: pasted__transform13 3
+    100244: pasted__transform13 4
+    100246: pasted__transform13 5
+    100248: pasted__transform14
+    100250: pasted__transform14 1
+    100252: pasted__transform14 2
+    100254: pasted__transform14 3
+    100256: pasted__transform14 4
+    100258: pasted__transform15
+    100260: pasted__transform15 1
+    100262: pasted__transform15 2
+    100264: pasted__transform15 3
+    100266: pasted__transform15 4
+    100268: pasted__transform15 5
+    100270: pasted__transform16
+    100272: pasted__transform16 1
+    100274: pasted__transform16 2
+    100276: pasted__transform16 3
+    100278: pasted__transform16 4
+    100280: pasted__transform16 5
+    100282: pasted__transform17
+    100284: pasted__transform17 1
+    100286: pasted__transform17 2
+    100288: pasted__transform17 3
+    100290: pasted__transform17 4
+    100292: pasted__transform17 5
+    100294: pCube1
+    100296: pCube2
+    100298: polySurface1
+    100300: polySurface1 1
+    100302: polySurface10
+    100304: polySurface11
+    100306: polySurface12
+    100308: polySurface2
+    100310: polySurface5
+    100312: polySurface7
+    100314: polySurface8
+    100316: polySurface9
+    100318: pPlane3
+    100320: pPlane3 1
+    100322: pPlane4
+    100324: pPyramid1
+    100326: pSphere1
+    100328: pSphere2
+    100330: pSphere3
+    100332: transform1
+    100334: transform12
+    100336: transform13
+    100338: transform14
+    100340: transform15
+    100342: transform16
+    100344: transform17
+    100346: transform18
+    100348: transform19
+    100350: transform2
+    100352: transform20
+    100354: transform21
+    100356: transform22
+    100358: transform23
+    100360: transform24
+    100362: transform25
+    100364: transform26
+    100366: transform27
+    100368: transform28
+    100370: transform29
+    100372: transform3
+    100374: transform30
+    100376: transform31
+    100378: transform32
+    100380: transform33
+    100382: transform34
+    100384: transform35
+    100386: transform36
+    100388: transform37
+    100390: transform38
+    100392: transform39
+    100394: transform4
+    100396: transform40
+    100398: transform41
+    100400: transform42
+    100402: transform43
+    100404: transform44
+    100406: transform45
+    100408: transform46
+    100410: transform47
+    100412: transform48
+    100414: transform49
+    100416: transform5
+    100418: transform50
+    100420: transform51
+    100422: transform52
+    100424: transform53
+    100426: transform54
+    100428: transform55
+    100430: transform56
+    100432: transform57
+    100434: transform58
+    100436: transform59
+    100438: transform6
+    100440: transform60
+    100442: transform61
+    100444: transform62
+    100446: wings
+    400000: _UNKNOWN_REF_NODE_fosterParent1
+    400002: //RootNode
+    400004: chickenhead
+    400006: errthing
+    400008: everything
+    400010: group
+    400012: group 1
+    400014: group1
+    400016: group10
+    400018: group11
+    400020: group12
+    400022: group13
+    400024: group14
+    400026: group15
+    400028: group16
+    400030: group17
+    400032: group18
+    400034: group2
+    400036: group20
+    400038: group21
+    400040: group3
+    400042: group4
+    400044: group5
+    400046: group7
+    400048: group8
+    400050: group9
+    400052: head
+    400054: motionTrail1Handle
+    400056: nurbsCircle1
+    400058: pasted___UNKNOWN_REF_NODE_fosterParent1
+    400060: pasted___UNKNOWN_REF_NODE_fosterParent1 1
+    400062: pasted__group11
+    400064: pasted__group12
+    400066: pasted__group15
+    400068: pasted__group16
+    400070: pasted__group16 1
+    400072: pasted__group16 2
+    400074: pasted__group3
+    400076: pasted__group3 1
+    400078: pasted__group3 2
+    400080: pasted__group3 3
+    400082: pasted__group3 4
+    400084: pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+    400086: pasted__pasted__group12
+    400088: pasted__pasted__group15
+    400090: pasted__pasted__group15 1
+    400092: pasted__pasted__group15 2
+    400094: pasted__pasted__group3
+    400096: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+    400098: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1 1
+    400100: pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1 2
+    400102: pasted__pasted__pasted__group12
+    400104: pasted__pasted__pasted__group12 1
+    400106: pasted__pasted__pasted__group12 2
+    400108: pasted__pasted__pasted__pasted__pPlane3
+    400110: pasted__pasted__pasted__pasted__pPlane4
+    400112: pasted__pasted__pasted__pPlane3
+    400114: pasted__pasted__pasted__pSphere2
+    400116: pasted__pasted__polySurface7
+    400118: pasted__pasted__pPlane3
+    400120: pasted__pasted__pPlane4
+    400122: pasted__pasted__pPyramid1
+    400124: pasted__pasted__pSphere1
+    400126: pasted__pasted__pSphere2
+    400128: pasted__pasted__pSphere2 1
+    400130: pasted__pasted__pSphere2 2
+    400132: pasted__pasted__pSphere2 3
+    400134: pasted__pasted__pSphere2 4
+    400136: pasted__pasted__pSphere2 5
+    400138: pasted__pasted__pSphere3
+    400140: pasted__pasted__transform12
+    400142: pasted__pasted__transform13
+    400144: pasted__pasted__transform14
+    400146: pasted__pasted__transform15
+    400148: pasted__pasted__transform16
+    400150: pasted__pasted__transform17
+    400152: pasted__polySurface5
+    400154: pasted__polySurface5 1
+    400156: pasted__polySurface7
+    400158: pasted__pPlane3
+    400160: pasted__pPlane4
+    400162: pasted__pPlane4 1
+    400164: pasted__pPlane4 2
+    400166: pasted__pPlane4 3
+    400168: pasted__pPlane4 4
+    400170: pasted__pPlane4 5
+    400172: pasted__pPyramid1
+    400174: pasted__pPyramid1 1
+    400176: pasted__pPyramid1 2
+    400178: pasted__pPyramid1 3
+    400180: pasted__pPyramid1 4
+    400182: pasted__pPyramid1 5
+    400184: pasted__pSphere1
+    400186: pasted__pSphere1 1
+    400188: pasted__pSphere1 2
+    400190: pasted__pSphere1 3
+    400192: pasted__pSphere1 4
+    400194: pasted__pSphere1 5
+    400196: pasted__pSphere1 6
+    400198: pasted__pSphere2
+    400200: pasted__pSphere2 1
+    400202: pasted__pSphere2 2
+    400204: pasted__pSphere2 3
+    400206: pasted__pSphere2 4
+    400208: pasted__pSphere2 5
+    400210: pasted__pSphere2 6
+    400212: pasted__pSphere3
+    400214: pasted__pSphere3 1
+    400216: pasted__pSphere3 2
+    400218: pasted__pSphere3 3
+    400220: pasted__pSphere3 4
+    400222: pasted__pSphere3 5
+    400224: pasted__transform12
+    400226: pasted__transform12 1
+    400228: pasted__transform12 2
+    400230: pasted__transform12 3
+    400232: pasted__transform12 4
+    400234: pasted__transform12 5
+    400236: pasted__transform13
+    400238: pasted__transform13 1
+    400240: pasted__transform13 2
+    400242: pasted__transform13 3
+    400244: pasted__transform13 4
+    400246: pasted__transform13 5
+    400248: pasted__transform14
+    400250: pasted__transform14 1
+    400252: pasted__transform14 2
+    400254: pasted__transform14 3
+    400256: pasted__transform14 4
+    400258: pasted__transform15
+    400260: pasted__transform15 1
+    400262: pasted__transform15 2
+    400264: pasted__transform15 3
+    400266: pasted__transform15 4
+    400268: pasted__transform15 5
+    400270: pasted__transform16
+    400272: pasted__transform16 1
+    400274: pasted__transform16 2
+    400276: pasted__transform16 3
+    400278: pasted__transform16 4
+    400280: pasted__transform16 5
+    400282: pasted__transform17
+    400284: pasted__transform17 1
+    400286: pasted__transform17 2
+    400288: pasted__transform17 3
+    400290: pasted__transform17 4
+    400292: pasted__transform17 5
+    400294: pCube1
+    400296: pCube2
+    400298: polySurface1
+    400300: polySurface1 1
+    400302: polySurface10
+    400304: polySurface11
+    400306: polySurface12
+    400308: polySurface2
+    400310: polySurface5
+    400312: polySurface7
+    400314: polySurface8
+    400316: polySurface9
+    400318: pPlane3
+    400320: pPlane3 1
+    400322: pPlane4
+    400324: pPyramid1
+    400326: pSphere1
+    400328: pSphere2
+    400330: pSphere3
+    400332: transform1
+    400334: transform12
+    400336: transform13
+    400338: transform14
+    400340: transform15
+    400342: transform16
+    400344: transform17
+    400346: transform18
+    400348: transform19
+    400350: transform2
+    400352: transform20
+    400354: transform21
+    400356: transform22
+    400358: transform23
+    400360: transform24
+    400362: transform25
+    400364: transform26
+    400366: transform27
+    400368: transform28
+    400370: transform29
+    400372: transform3
+    400374: transform30
+    400376: transform31
+    400378: transform32
+    400380: transform33
+    400382: transform34
+    400384: transform35
+    400386: transform36
+    400388: transform37
+    400390: transform38
+    400392: transform39
+    400394: transform4
+    400396: transform40
+    400398: transform41
+    400400: transform42
+    400402: transform43
+    400404: transform44
+    400406: transform45
+    400408: transform46
+    400410: transform47
+    400412: transform48
+    400414: transform49
+    400416: transform5
+    400418: transform50
+    400420: transform51
+    400422: transform52
+    400424: transform53
+    400426: transform54
+    400428: transform55
+    400430: transform56
+    400432: transform57
+    400434: transform58
+    400436: transform59
+    400438: transform6
+    400440: transform60
+    400442: transform61
+    400444: transform62
+    400446: wings
+    2300000: pasted__pasted__pasted__pasted__pPlane3
+    2300002: pasted__pasted__pasted__pasted__pPlane4
+    2300004: pasted__pasted__pasted__pPlane3
+    2300006: pasted__pasted__pPlane3
+    2300008: pasted__polySurface5
+    2300010: pasted__polySurface5 1
+    2300012: pasted__pPlane3
+    2300014: polySurface10
+    2300016: polySurface11
+    2300018: polySurface12
+    2300020: polySurface8
+    2300022: polySurface9
+    3300000: pasted__pasted__pasted__pasted__pPlane3
+    3300002: pasted__pasted__pasted__pasted__pPlane4
+    3300004: pasted__pasted__pasted__pPlane3
+    3300006: pasted__pasted__pPlane3
+    3300008: pasted__polySurface5
+    3300010: pasted__polySurface5 1
+    3300012: pasted__pPlane3
+    3300014: polySurface10
+    3300016: polySurface11
+    3300018: polySurface12
+    3300020: polySurface8
+    3300022: polySurface9
+    4300000: pasted__polySurface5
+    4300002: pasted__pPlane3
+    4300004: pasted__polySurface5
+    4300006: pasted__pasted__pasted__pPlane3
+    4300008: pasted__pasted__pasted__pasted__pPlane4
+    4300010: pasted__pasted__pasted__pasted__pPlane3
+    4300012: pasted__pasted__pPlane3
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: polySurface12
+    7400000: chicken
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: chicken
+      takeName: chicken
+      firstFrame: 2
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group 1/pasted__pSphere1 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group3/pasted__pSphere2 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group7
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__group3 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__pPlane4 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__pPyramid1 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__pSphere1 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__pSphere2 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group8/pasted__pSphere3 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__group3 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__pPlane4 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__pPyramid1 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__pSphere1 5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__pSphere2 5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group9/pasted__pSphere3 4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__group3 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__pPlane4 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__pPyramid1 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__pSphere1 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__pSphere2 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group10/pasted__pSphere3 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group12
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__group3 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__pPlane4 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__pPyramid1 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__pSphere1 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__pSphere2 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/group13/pasted__pSphere3 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/nurbsCircle1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__pasted__pSphere2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__polySurface5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform12
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform13
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform14
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform15
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform16
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pasted__transform17
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube1/transform2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube2/polySurface1 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube2/polySurface2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube2/polySurface2/transform4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pCube2/transform3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/polySurface1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPlane3 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPlane3 1/transform61
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPlane4
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPlane4/transform12
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPyramid1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pPyramid1/transform13
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere1/transform16
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere2/transform15
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3/polySurface5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3/polySurface5/transform60
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3/polySurface7
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3/polySurface7/transform59
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/pSphere3/transform17
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform5
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform6
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform14
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform18
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform18/pasted__transform16 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform19
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform20
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform20/pasted__transform15 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform21
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform22
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform22/pasted__pasted__pSphere2
+          1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform23
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform23/pasted__transform14 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform24
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform25
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform25/pasted__transform13 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform26
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform27
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform27/pasted__transform12 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform28
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform29
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform29/pasted__transform17 1
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform30
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform31
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform31/pasted__transform16 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform32
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform33
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform33/pasted__transform15 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform34
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform35
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform35/pasted__pasted__pSphere2
+          2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform36
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform36/pasted__transform14 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform37
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform38
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform38/pasted__transform13 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform39
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform40
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform40/pasted__transform12 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform41
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform42
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform42/pasted__transform17 2
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform43
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform44
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform44/pasted__transform16 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform45
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform46
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform46/pasted__transform15 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform47
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform48
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform48/pasted__pasted__pSphere2
+          3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform49
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform49/pasted__transform14 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform50
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform51
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform51/pasted__transform13 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform52
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform53
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform53/pasted__transform12 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform54
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform55
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform55/pasted__transform17 3
+        weight: 1
+      - path: _UNKNOWN_REF_NODE_fosterParent1/transform56
+        weight: 1
+      - path: everything
+        weight: 1
+      - path: everything/errthing
+        weight: 1
+      - path: everything/errthing/head
+        weight: 1
+      - path: everything/errthing/head/chickenhead
+        weight: 1
+      - path: everything/errthing/head/polySurface8
+        weight: 1
+      - path: everything/errthing/head/polySurface9
+        weight: 1
+      - path: everything/errthing/head/polySurface10
+        weight: 1
+      - path: everything/errthing/head/polySurface11
+        weight: 1
+      - path: everything/errthing/head/polySurface12
+        weight: 1
+      - path: everything/errthing/pasted__pasted__pasted__pasted__pPlane4
+        weight: 1
+      - path: everything/errthing/pasted__pasted__pasted__pPlane3
+        weight: 1
+      - path: everything/errthing/pasted__polySurface5 1
+        weight: 1
+      - path: everything/errthing/pasted__pPlane3
+        weight: 1
+      - path: everything/errthing/wings
+        weight: 1
+      - path: everything/errthing/wings/group20
+        weight: 1
+      - path: everything/errthing/wings/group20/pasted__pasted__pasted__pasted__pPlane3
+        weight: 1
+      - path: everything/errthing/wings/group20/pasted__pasted__pPlane3
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__group11
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__group3
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__group3/pasted__pasted__pasted__pSphere2
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__group3/pasted__pasted__pasted__pSphere2/pasted__pasted__transform14
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pPlane4
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pPlane4/pasted__pasted__transform12
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pPyramid1
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pPyramid1/pasted__pasted__transform13
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere1
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere1/pasted__pasted__transform16
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere2 4
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere2 4/pasted__pasted__transform15
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere3
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere3/pasted__pasted__polySurface7
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere3/pasted__pasted__polySurface7/transform57
+        weight: 1
+      - path: group/pasted__group11/pasted__pasted__pSphere3/pasted__pasted__transform17
+        weight: 1
+      - path: group11
+        weight: 1
+      - path: group11/pasted__group3
+        weight: 1
+      - path: group11/pasted__group3/pasted__pasted__pSphere2 5
+        weight: 1
+      - path: group11/pasted__group3/pasted__pasted__pSphere2 5/pasted__transform14
+          4
+        weight: 1
+      - path: group11/pasted__pPlane4
+        weight: 1
+      - path: group11/pasted__pPlane4/pasted__transform12 4
+        weight: 1
+      - path: group11/pasted__pPyramid1
+        weight: 1
+      - path: group11/pasted__pPyramid1/pasted__transform13 4
+        weight: 1
+      - path: group11/pasted__pSphere1
+        weight: 1
+      - path: group11/pasted__pSphere1/pasted__transform16 4
+        weight: 1
+      - path: group11/pasted__pSphere2
+        weight: 1
+      - path: group11/pasted__pSphere2/pasted__transform15 4
+        weight: 1
+      - path: group11/pasted__pSphere3
+        weight: 1
+      - path: group11/pasted__pSphere3/pasted__polySurface7
+        weight: 1
+      - path: group11/pasted__pSphere3/pasted__polySurface7/transform58
+        weight: 1
+      - path: group11/pasted__pSphere3/pasted__transform17 4
+        weight: 1
+      - path: group14
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pPlane4 5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pPlane4 5/pasted__transform12
+          5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pPyramid1 5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pPyramid1 5/pasted__transform13
+          5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere1 6
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere1 6/pasted__transform16
+          5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere2 6
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere2 6/pasted__transform15
+          5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere3 5
+        weight: 1
+      - path: group14/pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pSphere3 5/pasted__transform17
+          5
+        weight: 1
+      - path: group15
+        weight: 1
+      - path: group15/pasted___UNKNOWN_REF_NODE_fosterParent1 1
+        weight: 1
+      - path: group15/pasted___UNKNOWN_REF_NODE_fosterParent1 1/pasted__group12
+        weight: 1
+      - path: group16
+        weight: 1
+      - path: group16/pasted__group15
+        weight: 1
+      - path: group16/pasted__group15/pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+        weight: 1
+      - path: group16/pasted__group15/pasted__pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pasted__group12
+        weight: 1
+      - path: group17
+        weight: 1
+      - path: group17/pasted__group16
+        weight: 1
+      - path: group17/pasted__group16/pasted__pasted__group15
+        weight: 1
+      - path: group17/pasted__group16/pasted__pasted__group15/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+        weight: 1
+      - path: group17/pasted__group16/pasted__pasted__group15/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1/pasted__pasted__pasted__group12
+        weight: 1
+      - path: group18
+        weight: 1
+      - path: group18/pasted__group16 1
+        weight: 1
+      - path: group18/pasted__group16 1/pasted__pasted__group15 1
+        weight: 1
+      - path: group18/pasted__group16 1/pasted__pasted__group15 1/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+          1
+        weight: 1
+      - path: group18/pasted__group16 1/pasted__pasted__group15 1/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+          1/pasted__pasted__pasted__group12 1
+        weight: 1
+      - path: group21
+        weight: 1
+      - path: group21/pasted__group16 2
+        weight: 1
+      - path: group21/pasted__group16 2/pasted__pasted__group15 2
+        weight: 1
+      - path: group21/pasted__group16 2/pasted__pasted__group15 2/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+          2
+        weight: 1
+      - path: group21/pasted__group16 2/pasted__pasted__group15 2/pasted__pasted__pasted___UNKNOWN_REF_NODE_fosterParent1
+          2/pasted__pasted__pasted__group12 2
+        weight: 1
+      - path: motionTrail1Handle
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane3/transform62
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
